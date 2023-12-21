@@ -15,8 +15,11 @@ p{
 }
 body{
     justify-content: center;
+    background-color: green;
     align-items: center;
 }
 img{
+    justify-content: center;
     text-align: center;
+    align-items: center;
 }
