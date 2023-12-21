@@ -4,6 +4,8 @@ nav {
 }
 header {
     text-align: center;
+    font-weight: bold;
+    font-size: 40px;
    color: white;
 }
 h2{
@@ -32,4 +34,7 @@ img{
 }
 ul,ol{
     color:white;
+}
+a{
+    color:White;
 }
