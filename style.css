@@ -1,25 +1,35 @@
 nav {
-    background-color: green;
-    text align: center;
+        text align: center;
     color: white;
 }
 header {
     text-align: center;
-    background-color: green;
+   color: white;
 }
 h2{
     text-align: Center;
+    color: white;
 }
 p{
     text-align: center;
+    color: white;
 }
 body{
     justify-content: center;
     background-color: green;
     align-items: center;
+    background-image: url(images/istockphoto-457035235-612x612.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
 }
 img{
     justify-content: center;
     text-align: center;
     align-items: center;
+}
+ul,ol{
+    color:white;
 }
