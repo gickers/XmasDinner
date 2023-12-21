@@ -7,3 +7,16 @@ header {
     text-align: center;
     background-color: green;
 }
+h2{
+    text-align: Center;
+}
+p{
+    text-align: center;
+}
+body{
+    justify-content: center;
+    align-items: center;
+}
+img{
+    text-align: center;
+}
